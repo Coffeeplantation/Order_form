@@ -49,7 +49,7 @@ end
             :other_comment,
             :direct_mail_enabled,
             inflow_source_ids: [],
-            order_products_attributes: %i[products_id quantity])
+            order_products_attributes: %i[product_id quantity])
   end
 
   def filter_order_products
