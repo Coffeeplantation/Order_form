@@ -25,7 +25,7 @@ InflowSource.create(id: 3, name: '新聞・雑誌')
 InflowSource.create(id: 4, name: '情報サイト')
 InflowSource.create(id: 5, name: 'その他')
 
-Product.create(id: 1, name: '美味しいバナナ', price: 100)
+Product.create(id: 1, name: 'おいしいバナナ', price: 100)
 Product.create(id: 2, name: 'たのしいオレンジ', price: 200)
 Product.create(id: 3, name: 'さわやかアップル', price: 400)
 Product.create(id: 4, name: '元気なメロン', price: 600)
